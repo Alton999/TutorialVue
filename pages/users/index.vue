@@ -1,5 +1,7 @@
 <template>
-  <p>Plase enter an id and click the button</p>
+  <div>
+    <p>Plase enter an id and click the button</p>
+  </div>
 </template>
 
 <script>
